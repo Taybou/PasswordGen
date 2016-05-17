@@ -1,7 +1,7 @@
 # PasswrodGen ![alt text][PasswrodGen-logo]
 Generate and memorise passwords easily.
 
-# About PasswrodGen
+# About
 PasswrodGen is simple application, developed with java to facilitate generation and memorisation of passwords for every account. In addition, PasswrodGen assure storing passwords on your hard disk in offline mode, to be much more secure.
 
 # Using PasswrodGen
