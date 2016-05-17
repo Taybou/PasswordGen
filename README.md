@@ -4,11 +4,8 @@ Generate and memorise passwords easily.
 ## About
 PasswrodGen is simple application, developed with java to facilitate generation and memorisation of passwords for every account. In addition, PasswrodGen assure storing passwords on your hard disk in offline mode, to be much more secure.
 
-## Using PasswrodGen
-To use PasswrodGen you need to download and unzip the file **PasswordGen-application.zip** : 
-```shell
-git clone https://github.com/Taybou/PasswrodGen/blob/master/PasswordGen-application.zip
-```
+## Usage
+To use PasswrodGen you need to download and unzip the file **PasswordGen-application.zip**. After that, start the application by double click in **PasswordGenerator.jar** then fill your informations and generate password.
 
 ## license
 PasswrodGen is released under the [GNU GENERAL PUBLIC LICENSE Version 3][gplv3]
