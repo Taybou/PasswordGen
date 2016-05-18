@@ -7,7 +7,7 @@ PasswrodGen is simple application, developed with java to facilitate generation 
 ## Usage
 To use PasswrodGen you need to download and unzip the file **PasswordGen-application.zip**. After that, start the application by double click in **PasswordGenerator.jar** then fill your informations and generate password.
 
-```
+```shell
 git clone https://github.com/Taybou/PasswrodGen.git
 ```
 
