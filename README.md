@@ -20,4 +20,4 @@ PasswordGen is released under the [GNU GENERAL PUBLIC LICENSE Version 3][gplv3]
 
 
 
-Made with ♥ | 2015
+</> with ♥ | 2015
